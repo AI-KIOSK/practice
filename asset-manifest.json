@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/practice/static/js/main.7402b41c.js",
+    "static/media/thumbcat.png": "/practice/static/media/thumbcat.3018e751248da7b500e7.png",
+    "index.html": "/practice/index.html",
+    "main.7402b41c.js.map": "/practice/static/js/main.7402b41c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7402b41c.js"
+  ]
+}
